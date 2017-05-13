@@ -5,10 +5,10 @@
  id ="com.phonegap.example7"
  version ="1.0.0">
  
-  <name> app7 DESLIZAR </name>
+  <name> app7 Deslizar hacia la izquierda y a la derecha </name>
   
   <description>
-   Aplicacion que deslizamiento
+   Aplicacion que realiza el swie o deslizamiento en el dispositivo
   </description>
   
   <author href="https://build.phonegap.com" email="efrenmolina8@gmail.com">
